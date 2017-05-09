@@ -11,4 +11,4 @@ def imprimr_NUM(lista, num):
         return imprimr_NUM(lista[1:], num)
 
 
-print(imprimr_NUM(lista, 3))
+print(imprimr_NUM(lista, 5))
