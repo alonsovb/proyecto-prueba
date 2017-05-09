@@ -1,4 +1,4 @@
-def numerosHasta10(num):
+def numerosDesdeXhastaY(x,y):
     for x in range(1,num + 1):
         print(x)
 
