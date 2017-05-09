@@ -7,4 +7,4 @@ def numerosHasta10(num):
         print(x)
 >>>>>>> origin/master
 
-numerosHasta10(10)
+numerosDesdeXhastaY(6,9)
