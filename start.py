@@ -1,2 +1,2 @@
-def hola_mundo():
-    print("hola mundo!")
+def hola(nombre):
+    print("hola {0}!".format(nombre))
