@@ -1,5 +1,5 @@
 def numerosDesdeXhastaY(x,y):
-    for x in range(x,y + 1):
-        print("El numero actual es: %s"%(x))
+    for num in range(x,y + 1):
+        print("El numero actual es: %s"%(num))
 
 numerosDesdeXhastaY(6,9)
